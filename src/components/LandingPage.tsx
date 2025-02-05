@@ -192,6 +192,7 @@ const LandingPage = () => {
                 }}>
                 Show Map
               </button>
+               <a className="mt-5 text-white ">copyright@darlenetalapian@gmail.com</a>
             </div>
           </div>
         </>
